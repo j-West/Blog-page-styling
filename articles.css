@@ -1,0 +1,16 @@
+h1 {
+	text-align: center;
+}
+
+article {
+	margin-bottom: 5em;
+}
+
+#container {
+	width:85%;
+	margin: 5em 7.5%;
+}
+
+#mainFooter {
+	text-align: center;
+}
