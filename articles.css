@@ -11,6 +11,57 @@ article {
 	margin: 5em 7.5%;
 }
 
-#mainFooter {
-	text-align: center;
+div#container article:nth-child(1) {
+	background-color: green;
+	font-family: 'Amiko', sans-serif;
+	font-size: .8em;
+	line-height: 2em;
+	padding: auto;
+	border: 5px dotted red;
+	border-radius: 25%;
+	padding: 5em;
+}
+
+div#container article:nth-child(3) {
+	background-color: orange;
+	font-family: 'Farsan', cursive;
+	font-size: 1.5em;
+	line-height: 1.1em;
+	padding: 1em 4em 2em 3em;
+	border: 3px solid darkblue;
+	border-radius: 150%;
+	padding: 10em;
+}
+
+div#container article:nth-child(5) {
+	background-color: red;
+	font-family: 'Lalezar', cursive;
+	font-size: 1.1em;
+	line-height: 1.75em;
+	padding: 10em 3em;
+	border: 10px dashed green;
+	border-radius: 100% 40%;
+	padding: 20em;
+}
+
+div#container article:nth-child(7) {
+	background-color: yellow;
+	font-family: 'Rakkas', cursive;
+	font-size: .7em;
+	line-height: 3em;
+	padding: 5em 4em 10em;
+	border:7px solid black;
+	border-radius: 10% 75% 40%;
+	padding: 25em;
+}
+
+div#container article:nth-child(9) {
+	background-color: lightblue;
+	font-family: 'Shirkhand', cursive;
+	font-size: 1.25em;
+	line-height: 1.5em;
+	padding: 2em 0 0 10em;
+	border:15px dotted purple;
+	border-radius: 200% 15%;
+	padding: 15em;
 }
