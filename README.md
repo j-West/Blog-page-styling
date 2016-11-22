@@ -1,6 +1,6 @@
 # Articles
 
-## This is the fourth exercise in the front-end-milestones/2-the-static-web
+## Fourth exercise in the front-end-milestones/the-static-web
 
 ### Instructions for exercise:
 
